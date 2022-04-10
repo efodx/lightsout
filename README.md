@@ -50,7 +50,6 @@ Testiral sem le na nivoju service-ov in ne samih endpointov.
 Testi se lahko zaženejo s komando "mvn test".
 Eden izmed testnih razredov ne izvaja pravih testov, saj poskuša le hitrost algoritma, tako da reši po 100000 problemov
 velikosti n, za vse n od 3-8, ter izpiše svojo hitrost.
-Pustil sem ga noter, saj nisem 100%, da mi bo uspelo v logih predstavit hitrost.
 
 ## Logging
 Žal mi je za loganje zmanjkalo časa, tako da so edini logi, ki jih "ročno" pišem tisti, od solverja.
