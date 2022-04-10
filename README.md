@@ -1,6 +1,6 @@
 # Lights Out
 
-##Izbira strežnika
+## Izbira strežnika
 Za strežnik sem uporabil Quarkus, za bazo pa Postgres.
 
 Uporabljal sem le "quarkus dev", ki aplikacijo zažene v development mode. V development mode(s predpostavko, da je Docker zagnan),
