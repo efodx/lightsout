@@ -45,11 +45,11 @@ public class PlayersResource {
                     content = @Content(schema = @Schema(implementation = PlayerDTO.class))
             ),
             @APIResponse(
-                    responseCode = "404",
+                    responseCode = "400",
                     description = "User with desired username already exists."
             ),
             @APIResponse(
-                    responseCode = "404",
+                    responseCode = "400",
                     description = "Username or age are not in the correct format."
             )
     })
